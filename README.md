@@ -1,5 +1,7 @@
 # Phaser Slush Generator
 
+**No longer under active development** This has now been made into a [Slush][slush] template which can be found [here][here]
+
 A starting point to build a game with [Phaser][phaser], using [CommonJS modules][commonjs] to organise your code.
 
 Parts included:
@@ -52,3 +54,5 @@ Happy coding!
 [phaser]:       http://phaser.io/
 [browserify]:   http://browserify.org/
 [commonjs]:     http://wiki.commonjs.org/wiki/CommonJS
+[slush]:        https://github.com/slushjs/slush
+[here]:         https://github.com/Eruant/slush-phaser-node
